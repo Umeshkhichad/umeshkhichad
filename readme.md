@@ -1,4 +1,4 @@
-## Hello, I'm [Tarun Sahnan!]() 👋
+## Hello, I'm [Umesh Khichad!]() 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Umeshkhichad&color=green&style=plastic" alt="Umeshkhichad" /> </p>
 
